@@ -8,6 +8,6 @@ This is the React example by personal arrangement.
 
     npm install
     
-    node server.js
+    node server.js || npm start
 
 And visit http://localhost:3000/. Try opening multiple tabs!
