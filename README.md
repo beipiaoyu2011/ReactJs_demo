@@ -1,6 +1,5 @@
 # ReactJs_demo
 
-----------
 This is the React example by personal arrangement.
 
 #TO USE
